@@ -5,6 +5,6 @@
   <body>
     <h1> Meie projekt ITK24 grupiga</h1>
     <p>See leht arvestab meie muudatustega</p>
-    <img src="https://i.pinimg.com/736x/1a/c0/23/1ac0231aa6d74d092328d445aa98183e.jpg">
+    <img src="https://i.pinimg.com/736x/30/b6/85/30b685adafa687d77d5c0ce75e2d821c.jpg">
   </body>
 </html>
