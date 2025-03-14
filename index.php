@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1> Meie projekt ITK24 grupiga</h1>
-    <p>See leht arvestab meie muudatustega</p>
+    <p>See leht arvestab meie muutustega (loe: ilgelt dünaamiline)</p>
     <img src="https://i.pinimg.com/736x/30/b6/85/30b685adafa687d77d5c0ce75e2d821c.jpg">
   </body>
 </html>
